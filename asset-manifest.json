@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/han-firegram/static/css/main.e7ce139e.chunk.css",
+    "main.js": "/han-firegram/static/js/main.bc950dda.chunk.js",
+    "main.js.map": "/han-firegram/static/js/main.bc950dda.chunk.js.map",
+    "runtime-main.js": "/han-firegram/static/js/runtime-main.06b30341.js",
+    "runtime-main.js.map": "/han-firegram/static/js/runtime-main.06b30341.js.map",
+    "static/js/2.7eeeff3e.chunk.js": "/han-firegram/static/js/2.7eeeff3e.chunk.js",
+    "static/js/2.7eeeff3e.chunk.js.map": "/han-firegram/static/js/2.7eeeff3e.chunk.js.map",
+    "index.html": "/han-firegram/index.html",
+    "precache-manifest.13c9d9ca0ebb3db1b89c5e2abefb7fb5.js": "/han-firegram/precache-manifest.13c9d9ca0ebb3db1b89c5e2abefb7fb5.js",
+    "service-worker.js": "/han-firegram/service-worker.js",
+    "static/css/main.e7ce139e.chunk.css.map": "/han-firegram/static/css/main.e7ce139e.chunk.css.map",
+    "static/js/2.7eeeff3e.chunk.js.LICENSE.txt": "/han-firegram/static/js/2.7eeeff3e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.06b30341.js",
+    "static/js/2.7eeeff3e.chunk.js",
+    "static/css/main.e7ce139e.chunk.css",
+    "static/js/main.bc950dda.chunk.js"
+  ]
+}
