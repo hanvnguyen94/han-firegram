@@ -21,10 +21,6 @@ body {
 	letter-spacing: 2px;
 	font-weight: normal;
 }
-.title h2 {
-	color: var(--primary);
-	font-weight: bold;
-}
 .title h2,
 .title p {
 	text-align: center;
