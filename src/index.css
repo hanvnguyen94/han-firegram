@@ -30,6 +30,10 @@ body {
 	font-size: 2.6rem;
 }
 
+.title h2 {
+	color: #e4756d;
+}
+
 /* upload form styles */
 form {
 	margin: 30px auto 10px;

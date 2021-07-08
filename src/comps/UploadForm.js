@@ -1,6 +1,7 @@
 import React from 'react'
 import { useState } from 'react'
 import ProgressBar from './ProgressBar'
+import { motion } from 'framer-motion'
 
 const UploadForm = () => {
 	const [file, setFile] = useState(null)
@@ -24,10 +25,20 @@ const UploadForm = () => {
 
 	return (
 		<form>
-			<label>
+			<motion.label
+				initial={{ opacity: 0 }}
+				animate={{ opacity: 1 }}
+				transition={{ delay: 1 }}
+			>
 				<input type='file' onChange={onChangeHandle} />
-				<span>+</span>
-			</label>
+				<motion.span
+					initial={{ opacity: 0 }}
+					animate={{ opacity: 1 }}
+					transition={{ delay: 1 }}
+				>
+					+
+				</motion.span>
+			</motion.label>
 			<div className='output'>
 				{error && <div className='error'>{error}</div>}
 				{file && <div>{file.name}</div>}
