@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f329ae1d39e55f28dc633632be92dccb",
+    "revision": "5818c6ef3121ebacaad1769841701c29",
     "url": "/han-firegram/index.html"
   },
   {
-    "revision": "4acd3a3fc8ba0947469a",
+    "revision": "49ac1f37475bfa17d93c",
     "url": "/han-firegram/static/css/main.b17a106c.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/han-firegram/static/js/2.f9f00e8f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4acd3a3fc8ba0947469a",
-    "url": "/han-firegram/static/js/main.0e11d416.chunk.js"
+    "revision": "49ac1f37475bfa17d93c",
+    "url": "/han-firegram/static/js/main.6a809455.chunk.js"
   },
   {
     "revision": "723f5a20d7b7b3873087",
