@@ -86,13 +86,6 @@ label:hover {
 	align-items: center;
 	text-align: center;
 }
-img {
-	max-height: 100px;
-	max-width: 95%;
-	text-align: center;
-	align-items: center;
-}
-
 .img-wrap {
 	overflow: hidden;
 	height: 0;
@@ -105,7 +98,8 @@ img {
 .img-wrap img {
 	min-width: 100%;
 	min-height: 100%;
-	max-width: 150%;
+	max-width: 100%;
+	overflow: hidden;
 	position: absolute;
 	top: 0;
 	left: 0;
