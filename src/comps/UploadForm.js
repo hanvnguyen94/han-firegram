@@ -34,7 +34,7 @@ const UploadForm = () => {
 				<motion.span
 					initial={{ opacity: 0 }}
 					animate={{ opacity: 1 }}
-					transition={{ delay: 1 }}
+					transition={{ delay: 3 }}
 				>
 					+
 				</motion.span>
