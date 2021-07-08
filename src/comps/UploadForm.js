@@ -28,7 +28,7 @@ const UploadForm = () => {
 			<motion.label
 				initial={{ opacity: 0 }}
 				animate={{ opacity: 1 }}
-				transition={{ delay: 1 }}
+				transition={{ delay: 3 }}
 			>
 				<input type='file' onChange={onChangeHandle} />
 				<motion.span

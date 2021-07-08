@@ -10,7 +10,7 @@ const Title = () => {
 				animate={{ opacity: 1, scale: 1, rotate: 360 }}
 				transition={{ delay: 1.5, duration: 2 }}
 			>
-				Happy 4th Anniversary {'🎉'}
+				Happy 4th year Anniversary {'🎉'}
 			</motion.h2>
 			<motion.p
 				initial={{ opacity: 0 }}
